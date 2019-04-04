@@ -1,4 +1,14 @@
-img{
+.a{
   height: 400px;
   width: 400px;
+}
+
+.b{
+  height: 300px;
+  width: 350px;
+}
+
+.c{
+  height: 250px;
+  width: 350px;
 }
